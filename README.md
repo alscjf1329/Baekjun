@@ -15,3 +15,5 @@ Link
 * Git-Tutorial
   * git clone
     * git pull
+
+> 'Let's study!!' - MinCheol.Yang -
