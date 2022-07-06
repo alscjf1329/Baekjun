@@ -1,14 +1,14 @@
 ## Baekjun
 ### Git
 
-'''c
+```c
 #include<studio.h>
 
 int main(void){
   printf("hello world")
   return 0;
   }
-'''
+```
 Link
 [naver](http://naver.com)
 
