@@ -17,3 +17,7 @@ Link
     * git pull
 
 > 'Let's study!!' - MinCheol.Yang -
+
+Name|School Num|Age
+---|---|---
+양민철|2019******|23
