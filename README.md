@@ -1,13 +1,8 @@
 ## Baekjun
 ### Git
 
-```c
-#include<studio.h>
-
-int main(void){
-  printf("hello world")
-  return 0;
-  }
+```python
+print("Hello world")
 ```
 Link
 [naver](http://naver.com)
